@@ -1,0 +1,3 @@
+part 1 of a imaginary programm:
+it calculates the accelaration on the earth
+G=9.81
